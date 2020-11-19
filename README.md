@@ -1,2 +1,2 @@
 # lusofona_ff
-Exercises from pos-graduation
+Exercises from pos-graduation: Segurança Informática e Ethical Hacking (programa avançado)
